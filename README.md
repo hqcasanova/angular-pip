@@ -14,6 +14,6 @@ This fork also gets rid of all the non-essentials. For me that means: the async 
 
 A promising alternative seemed to be the [ng-poly generator](https://github.com/dustinspecker/generator-ng-poly). Does this generator follow the same directory structure conventions as those observed in Angular-seed? That's ultimately the question I wanted to answer.
 
-Then I discovered Todd's and John's tips and found myself following most of those. Since ng-poly's generated code diverges from them, I thought I could just keep it simple and create my own customized version of angular-seed.
+Then I discovered the sources above and found myself following most of those. Since ng-poly's generated code diverges from them, I thought I could just keep it simple and create my own customized version of angular-seed.
 
 Given that I'm still learning the ropes of Angular, this repo may go through quite a lot of change before it is stable. Use at your own risk.
